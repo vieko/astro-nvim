@@ -1,5 +1,5 @@
 return {
-  "ukas-reineke/virt-column.nvim",
+  "lukas-reineke/virt-column.nvim",
   name = "virt-column",
   event = "BufRead",
   config = function()
